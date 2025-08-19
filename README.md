@@ -1,65 +1,59 @@
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Niranjana%20Shaji&fontSize=40&fontColor=fff)
+
 # 👋 Hi, I'm Niranjana Shaji  
 
-🎓 **Motivated Electronics and Computer Engineering Graduate** passionate about **Backend Development, Frontend, and IoT projects**.  
-🚀 Eager to learn, solve problems, and contribute to **real-world tech solutions** in collaborative teams.  
+🎓 Motivated **Electronics and Computer Engineering Graduate** passionate about **Backend Development, Frontend, and IoT projects**.  
+💡 Eager to learn, solve problems, and contribute to real-world tech solutions in a collaborative team.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, TailwindCSS  
-- **Backend:** Java (Spring Boot), Node.js, Express.js  
-- **Database:** MySQL, Firebase, MongoDB  
-- **IoT/Embedded:** ESP32, MPU6050, Sensors Integration  
-- **AI/ML:** CNN, R-CNN, MLP Models  
-- **Tools & Platforms:** Git, GitHub, Vercel, Render, Postman  
-
----
-
-## 📂 Featured Projects  
-
-### 💬 Real-Time Chat Application  
-🔗 [GitHub Repo](https://github.com/niranjana232003/Real-Time-Chat-App)  
-📌 A **real-time messaging app** built with WebSockets for instant communication.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🚍 School Van Tracking System (IoT + ESP32 + Firebase)  
-🔗 [GitHub Repo](https://github.com/niranjana232003/School-Van-Tracking)  
-📌 **IoT-based system** to track school vans in real time with **GPS + Firebase integration**.  
+## 🚀 Projects
+
+### 🔹 [React Expense Tracker](https://react-expense-tracker-topaz.vercel.app/)
+💰 A web app to manage income & expenses with charts and categories.  
+🔗 [GitHub Repo](https://github.com/niranjana232003/React-Expense-Tracker)
 
 ---
 
-### 💰 React Expense Tracker  
-🔗 [GitHub Repo](https://github.com/niranjana232003/React-Expense-Tracker)  
-🌐 [Live Demo](https://react-expense-tracker-topaz.vercel.app/)  
-📌 A **simple and interactive expense manager** built using **React.js**.  
+### 🔹 Real-Time Chat Application
+💬 A real-time chat app using **WebSockets** with multiple user support.  
+🔗 [GitHub Repo](#) (Add when available)
 
 ---
 
-### 🦾 Fall Detection Cane (IoT + AI + MLP Model)  
-🔗 [GitHub Repo](https://github.com/niranjana232003/Fall-Detection-Cane)  
-📌 A **smart cane** that detects falls using **ESP32 + MLP model**, alerts caregivers.  
+### 🔹 School Van Tracking System (IoT)
+🚌 IoT-based system with ESP32 + GPS + MPU6050 for real-time location & safety monitoring.  
+🔗 [GitHub Repo](#)
 
 ---
 
-### 🌱 Tree Counting with Deep Learning (CNN + R-CNN)  
-🔗 [GitHub Repo](https://github.com/niranjana232003/Tree-Counting-CNN)  
-📌 Used **CNN & R-CNN** architectures for tree detection/counting from satellite images.  
+### 🔹 Smart Cane with Fall Detection
+🤖 ESP32 + MPU6050 + MLP model for fall detection, alerting caretakers via Firebase & web dashboard.  
+🔗 [GitHub Repo](#)
 
 ---
 
-### ✅ Task Management System (Next.js + WebSockets + AI Suggestions)  
-🔗 [GitHub Repo](https://github.com/niranjana232003/Task-Management-System)  
-📌 A **real-time task manager** with AI-powered suggestions & **WebSocket updates**.  
+## 📫 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niranjana-shaji)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/niranjana232003)  
 
 ---
 
-## 📬 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/niranjana-shaji/)  
-- 🐙 [GitHub](https://github.com/niranjana232003)  
-- 📧 Email: niranjana.shaji@gmail.com  
-
----
-⭐ Always open to **collaborations, opportunities, and learning new tech!**  
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
