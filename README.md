@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/niranjana232003/niranjana232003/blob/main/assets/banner.png" alt="Banner" width="100%">
+</p>
+
 # 👩‍💻 Niranjana Shaji  
 
 ## 🌟 About Me  
@@ -39,8 +44,9 @@ Eager to learn, solve problems, and contribute to real-world tech solutions in a
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/niranjana-shaji)  
-- 📂 [GitHub Profile](https://github.com/niranjana232003)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niranjana-shaji)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/niranjana232003)  
 
 ---
 
